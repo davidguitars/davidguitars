@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-urdaneta-75bb8b1a1/](https://www.linkedin.com/in/david-urdaneta-75bb8b1a1/)
 
-- ⚡ Fun fact **Play any MMORPG**
+- ⚡ I love **playing any MMORPG** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
