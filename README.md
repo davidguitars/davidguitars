@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **davidguitars26@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/david-urdaneta-75bb8b1a1/](https://www.linkedin.com/in/david-urdaneta-75bb8b1a1/)
-
 - ⚡ I love **playing any MMORPG** 
 
 <h3 align="left">Connect with me:</h3>
