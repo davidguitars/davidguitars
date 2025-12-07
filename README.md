@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.davidurdaneta.com](www.davidurdaneta.com)
 
-- 💬 Ask me about **React, VueJS, Angular**
+- 💬 Ask me about **React, VueJS, Wordpress, Shopify, N8N**
 
 - 📫 How to reach me **contacto@davidurdaneta.com**
 
