@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **React, VueJS, Angular**
 
-- 📫 How to reach me **davidguitars26@gmail.com**
+- 📫 How to reach me **contacto@davidurdaneta.com**
 
-- ⚡ I love **playing any MMORPG** 
+- ⚡ I love **Surfs** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
