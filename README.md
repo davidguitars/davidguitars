@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Letsdoit**
 
-- 🌱 I’m currently learning **React, VueJS, Angular**
+- 🌱 I’m currently learning **React, VueJS, Astro**
 
 - 👨‍💻 All of my projects are available at [www.davidurdaneta.com](www.davidurdaneta.com)
 
