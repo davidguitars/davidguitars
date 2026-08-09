@@ -33,7 +33,7 @@ Ayudo a negocios a migrar, construir y mantener sus sitios en WordPress y Shopif
 
 ### Proyectos destacados
 
-*(fijá estos 3-6 repos en tu perfil desde "Customize your pins")*
+
 
 - 🌐 **Client site migrations** — migraciones de WordPress entre hostings (DirectAdmin, Hostinger, Bluehosting) con manejo de DNS/Cloudflare
 - 🛒 **WooCommerce custom checkout** — checkout a medida con Elementor + shortcode vía WPCode
