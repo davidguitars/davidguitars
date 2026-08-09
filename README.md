@@ -15,19 +15,21 @@ Ayudo a negocios a migrar, construir y mantener sus sitios en WordPress y Shopif
 
 ### Stack principal
 
-![WordPress](https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg) &nbsp;
-![WooCommerce](https://camo.githubusercontent.com/2f61f596e2f8b0f5b3e6c6dfa4c8ce76b2a0f9e33f4e3d9a06cf6cf7c7f6f6f6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f776f6f636f6d6d657263652f776f6f636f6d6d657263652d69636f6e2e737667) &nbsp;
-![Shopify](https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg) &nbsp;
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) &nbsp;
-![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) &nbsp;
-![Supabase](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg) &nbsp;
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) &nbsp;
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) &nbsp;
-![Cloudflare](https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg) &nbsp;
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Hosting & infra:** DirectAdmin · cPanel · Hostinger · Bluehosting · Cloudflare DNS
-**Herramientas:** Elementor · WPCode · Figma
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Hosting & infra:** DirectAdmin · cPanel · Hostinger · Bluehosting
+**Herramientas:** WPCode · Figma
 
 ---
 
