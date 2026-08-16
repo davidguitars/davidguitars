@@ -1,6 +1,6 @@
 ### Hola 👋, soy David
 
-**Desarrollador Web Freelance | WordPress · Shopify · WooCommerce | Fundador de Orixo Studios**
+**Desarrollador Web Freelance | WordPress · Shopify · WooCommerce | **
 
 Ayudo a negocios a migrar, construir y mantener sus sitios en WordPress y Shopify — desde builds custom con Elementor y WooCommerce hasta migraciones de hosting sin downtime y troubleshooting de servidor (WAF, PHP, DNS).
 
